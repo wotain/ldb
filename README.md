@@ -1,0 +1,4 @@
+ldb
+===
+
+my good think
